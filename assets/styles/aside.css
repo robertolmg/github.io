@@ -1,0 +1,18 @@
+aside h1{
+    display: flex;
+    margin-bottom: 25px;
+}
+aside h3{
+    margin-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+aside .fab{
+    space-between: 5px;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.user {
+    color: black;
+}

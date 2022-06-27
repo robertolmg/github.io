@@ -1,0 +1,15 @@
+/* CSS FLEXBOX 1 - UMA DIMENSÃO*/
+#caixa-categoria {
+    width: 200px;
+    height: 30px;
+    margin-left: 69%;
+    top: 625px;
+    background-color: rgb(41, 36, 36);
+    color: white;
+  }
+  .card-body{
+    background-color: rgb(41, 36, 36);
+  }
+  #tela img{
+    height: 600px;
+  }

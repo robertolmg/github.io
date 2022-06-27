@@ -1,0 +1,26 @@
+
+#entrevistas .card{
+    background-color: rgb(41, 36, 36);
+}
+#h1{
+    display: flex;
+    flex-direction: flex-start;
+}
+#entrevistas button{
+    height: 40px;
+    width: 180px;
+    margin-left: 78%;
+    margin-top: 15px;
+}
+
+#entrevistas h1{
+    margin-top: 20px;
+    margin-right: 40%;
+  }
+.card-group{
+    margin-top: 30px;
+
+}
+.terceiro-titulo{
+    margin-top: 15px;
+}

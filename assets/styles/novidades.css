@@ -1,0 +1,25 @@
+.container {
+  margin-top: 20px;
+}
+#titulo-principal {
+  display: flex;
+}
+.container img{
+  height: 230px;
+}
+.container .row1{
+  margin-top: 30px;
+}
+.container p{
+  margin-bottom: 0px;
+}
+#keyword2, #keyword1, #keyword3{
+  display: inline-block;
+  background-color: rgb(61, 61, 61);
+  padding: 0px 20px 0px 20px;
+  border-radius: 20px;
+  font-size: 90%;/*para não quebrar linha na responsividade*/
+}
+#novidades .row p{
+  margin-top: -20px;
+}

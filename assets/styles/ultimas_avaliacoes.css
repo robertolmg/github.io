@@ -1,0 +1,25 @@
+#ultimas-avaliacoes {
+  margin-top: 30px;
+  background-color: rgb(41, 36, 36);
+}
+#ultimas-avaliacoes button {
+  height: 40px;
+  width: 180px;
+  margin-left: 78%;
+  margin-top: 15px;
+}
+#ultimas-avaliacoes h1 {
+  margin-right: 48%;
+}
+#ultimas-avaliacoes h5 {
+  display: inline-block;
+}
+.card-title {
+  margin-left: 4%;
+}
+#ultimas-avaliacoes .card-body {
+  background-color: rgb(63, 58, 58);
+}
+.col {
+  margin-top: 25px;
+}
